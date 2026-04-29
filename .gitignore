@@ -43,4 +43,3 @@ backups/*.backup
 *.db
 *.sqlite
 *.sqlite3
-projects/admin-dashboard/

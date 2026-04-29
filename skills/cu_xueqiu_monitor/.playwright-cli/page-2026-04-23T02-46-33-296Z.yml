@@ -1,0 +1,1391 @@
+- generic [ref=e2]:
+  - navigation [ref=e4]:
+    - generic [ref=e5]:
+      - link [ref=e8] [cursor=pointer]:
+        - /url: /
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - textbox "搜索" [ref=e11]
+          - button "" [ref=e13] [cursor=pointer]
+        - list [ref=e14]:
+          - listitem [ref=e15]:
+            - link [ref=e16] [cursor=pointer]:
+              - /url: https://ai.xueqiu.com/chat
+              - img [ref=e17]
+          - listitem [ref=e18]:
+            - link "" [ref=e19] [cursor=pointer]:
+              - /url: /snb/web/cs?from=xq
+          - listitem [ref=e20]:
+            - link "" [ref=e21] [cursor=pointer]:
+              - /url: javascript:;
+          - listitem [ref=e22]:
+            - link "下载App" [ref=e23] [cursor=pointer]:
+              - /url: "javascript:"
+          - listitem [ref=e24]:
+            - link "关于雪球" [ref=e25] [cursor=pointer]:
+              - /url: /about
+  - generic [ref=e27]:
+    - generic [ref=e28]:
+      - generic [ref=e29]:
+        - link [ref=e30] [cursor=pointer]:
+          - /url: /u/4232937504
+          - img [ref=e31]
+        - link "七月流水" [ref=e32] [cursor=pointer]:
+          - /url: /u/4232937504
+        - generic [ref=e33]:
+          - link "关注43" [ref=e35] [cursor=pointer]:
+            - /url: /center/#/friends
+          - link "粉丝4" [ref=e37] [cursor=pointer]:
+            - /url: /center/#/fans
+        - button "发帖" [ref=e39] [cursor=pointer]
+      - list [ref=e40]:
+        - listitem [ref=e41]:
+          - link " 首页" [ref=e42] [cursor=pointer]:
+            - /url: /#/?t=1776912339730
+            - generic [ref=e43]: 
+            - generic [ref=e44]: 首页
+        - listitem [ref=e45]:
+          - link " 自选" [ref=e46] [cursor=pointer]:
+            - /url: /#/optional?t=1776912339730
+            - generic [ref=e47]: 
+            - generic [ref=e48]: 自选
+        - listitem [ref=e49]:
+          - link " 行情" [ref=e50] [cursor=pointer]:
+            - /url: /hq
+            - generic [ref=e51]: 
+            - generic [ref=e52]: 行情
+        - listitem [ref=e53]:
+          - link " 基金" [ref=e54] [cursor=pointer]:
+            - /url: https://xueqiu.com/f/new/node/pages/token-jump?url=https://danjuanfunds.com/
+            - generic [ref=e55]: 
+            - generic [ref=e56]: 基金
+        - listitem [ref=e57]:
+          - link " 私募" [ref=e58] [cursor=pointer]:
+            - /url: https://xueqiu.com/f/new/node/pages/token-jump?url=https://danjuanfunds.com/rn/pf-shelves/home
+            - generic [ref=e59]: 
+            - generic [ref=e60]: 私募
+        - listitem [ref=e61]:
+          - link " 我的资产" [ref=e62] [cursor=pointer]:
+            - /url: /center/#/assets?t=1776912339730
+            - generic [ref=e63]: 
+            - generic [ref=e64]: 我的资产
+        - listitem [ref=e65]:
+          - link " 创作者中心" [ref=e66] [cursor=pointer]:
+            - /url: https://mp.xueqiu.com/
+            - generic [ref=e67]: 
+            - generic [ref=e68]: 创作者中心
+        - listitem [ref=e69]:
+          - link "我的消息" [ref=e70] [cursor=pointer]:
+            - /url: javascript:;
+            - img [ref=e71]
+            - generic [ref=e72]: 我的消息
+          - list [ref=e73]:
+            - listitem [ref=e74]:
+              - link "回复" [ref=e75] [cursor=pointer]:
+                - /url: /center/#/comments?t=1776912339730
+            - listitem [ref=e76]:
+              - link "@我" [ref=e77] [cursor=pointer]:
+                - /url: /center/#/mention?t=1776912339730
+            - listitem [ref=e78]:
+              - link "赞" [ref=e79] [cursor=pointer]:
+                - /url: /center/#/likes?t=1776912339730
+            - listitem [ref=e80]:
+              - link "我的粉丝" [ref=e81] [cursor=pointer]:
+                - /url: /center/#/fans?t=1776912339730
+            - listitem [ref=e82]:
+              - link "系统消息" [ref=e83] [cursor=pointer]:
+                - /url: /center/#/sys-message
+            - listitem [ref=e84]:
+              - link "私信" [ref=e85] [cursor=pointer]:
+                - /url: /center/#/user-message
+    - generic:
+      - generic [ref=e87]:
+        - generic [ref=e90]:
+          - link "4088.67 上证指数-0.43%" [ref=e91] [cursor=pointer]:
+            - /url: /S/SH000001
+            - generic [ref=e92]:
+              - generic [ref=e93]: "4088.67"
+              - link [ref=e94]:
+                - /url: /S/SH000001
+                - img [ref=e95]
+            - generic [ref=e98]:
+              - link "上证指数" [ref=e99]:
+                - /url: /S/SH000001
+              - text: "-0.43%"
+          - link "15021.16 深证成指-1.03%" [ref=e100] [cursor=pointer]:
+            - /url: /S/SZ399001
+            - generic [ref=e101]:
+              - generic [ref=e102]: "15021.16"
+              - link [ref=e103]:
+                - /url: /S/SZ399001
+                - img [ref=e104]
+            - generic [ref=e107]:
+              - link "深证成指" [ref=e108]:
+                - /url: /S/SZ399001
+              - text: "-1.03%"
+          - link "3699.81 创业板指-1.41%" [ref=e109] [cursor=pointer]:
+            - /url: /S/SZ399006
+            - generic [ref=e110]:
+              - generic [ref=e111]: "3699.81"
+              - link [ref=e112]:
+                - /url: /S/SZ399006
+                - img [ref=e113]
+            - generic [ref=e116]:
+              - link "创业板指" [ref=e117]:
+                - /url: /S/SZ399006
+              - text: "-1.41%"
+        - generic [ref=e124]:
+          - generic [ref=e125]:
+            - link "自选股票" [ref=e126] [cursor=pointer]:
+              - /url: ""
+            - link "自选基金" [ref=e127] [cursor=pointer]:
+              - /url: ""
+            - link "自选组合" [ref=e128] [cursor=pointer]:
+              - /url: ""
+            - generic [ref=e130] [cursor=pointer]: 
+          - table [ref=e133]:
+            - row "全部 净值 日收益 月收益 总收益 " [ref=e134]:
+              - columnheader "全部" [ref=e135] [cursor=pointer]
+              - columnheader "净值" [ref=e136] [cursor=pointer]:
+                - generic [ref=e137]: 净值
+              - columnheader "日收益" [ref=e139] [cursor=pointer]:
+                - generic [ref=e140]: 日收益
+              - columnheader "月收益" [ref=e142] [cursor=pointer]:
+                - generic [ref=e143]: 月收益
+              - columnheader "总收益" [ref=e145] [cursor=pointer]:
+                - generic [ref=e146]: 总收益
+              - columnheader "" [ref=e148]:
+                - link "" [ref=e149] [cursor=pointer]:
+                  - /url: ""
+            - rowgroup [ref=e150]:
+              - row "主题投资组合 ZH1038355 8.7661 -0.45% 5.84% 776.61% " [ref=e151]:
+                - cell "主题投资组合 ZH1038355" [ref=e152]:
+                  - link "主题投资组合" [ref=e153] [cursor=pointer]:
+                    - /url: /P/ZH1038355
+                  - link "ZH1038355" [ref=e154] [cursor=pointer]:
+                    - /url: /P/ZH1038355
+                - cell "8.7661" [ref=e155]
+                - cell "-0.45%" [ref=e156]
+                - cell "5.84%" [ref=e157]
+                - cell "776.61%" [ref=e158]
+                - cell "" [ref=e159]:
+                  - generic [ref=e160] [cursor=pointer]: 
+        - generic [ref=e162]:
+          - img [ref=e163]
+          - generic [ref=e164]:
+            - generic [ref=e166]: 发表你的观点...
+            - generic [ref=e167]:
+              - generic [ref=e168]:
+                - link "" [ref=e170] [cursor=pointer]:
+                  - /url: ""
+                  - generic [ref=e171]: 
+                - link "" [ref=e172] [cursor=pointer]:
+                  - /url: javascript:;
+                  - generic [ref=e173]: 
+                - link "" [ref=e174] [cursor=pointer]:
+                  - /url: ""
+                  - generic [ref=e175]: 
+                - link "" [ref=e176] [cursor=pointer]:
+                  - /url: ""
+                  - generic [ref=e177]: 
+                - link "" [ref=e178] [cursor=pointer]:
+                  - /url: ""
+                  - generic [ref=e179]: 
+                - link [ref=e181] [cursor=pointer]:
+                  - /url: ""
+                  - img [ref=e182]
+                - link " 长文" [ref=e184] [cursor=pointer]:
+                  - /url: https://mp.xueqiu.com/write/?position=pc_home_post
+                  - generic [ref=e185]: 
+                  - text: 长文
+              - link "发布" [ref=e187]:
+                - /url: ""
+        - generic [ref=e188]:
+          - generic [ref=e190]:
+            - link "关注" [ref=e191] [cursor=pointer]:
+              - /url: ""
+            - link "热门" [ref=e192] [cursor=pointer]:
+              - /url: ""
+            - link "7x24" [ref=e193] [cursor=pointer]:
+              - /url: ""
+            - link "自选" [ref=e194] [cursor=pointer]:
+              - /url: ""
+            - link "视频" [ref=e195] [cursor=pointer]:
+              - /url: ""
+            - link "基金" [ref=e196] [cursor=pointer]:
+              - /url: ""
+            - link "资讯" [ref=e197] [cursor=pointer]:
+              - /url: ""
+            - link "达人" [ref=e198] [cursor=pointer]:
+              - /url: ""
+            - link "私募" [ref=e199] [cursor=pointer]:
+              - /url: ""
+            - link "ETF" [ref=e200] [cursor=pointer]:
+              - /url: ""
+          - generic [ref=e201]:
+            - link "全部" [ref=e202] [cursor=pointer]:
+              - /url: ""
+            - link "关注精选" [ref=e203] [cursor=pointer]:
+              - /url: ""
+            - link "只看原发" [ref=e204] [cursor=pointer]:
+              - /url: ""
+            - link "未分组" [ref=e205] [cursor=pointer]:
+              - /url: ""
+          - generic [ref=e206]:
+            - link "有2条未读消息 点击查看" [ref=e207] [cursor=pointer]:
+              - /url: ""
+            - article [ref=e208]:
+              - link [ref=e209] [cursor=pointer]:
+                - /url: /chenda
+                - img [ref=e210]
+              - generic [ref=e211]:
+                - generic [ref=e213]:
+                  - link "陈达美股投资" [ref=e214] [cursor=pointer]:
+                    - /url: /chenda
+                  - img "荣誉认证" [ref=e215]
+                  - img "达人认证" [ref=e216]
+                  - link "2分钟前· 来自雪球" [ref=e217] [cursor=pointer]:
+                    - /url: /9598793634/385321967
+                - generic [ref=e221]:
+                  - link "$纳指100ETF-Invesco(QQQ)$" [ref=e222] [cursor=pointer]:
+                    - /url: https://xueqiu.com/S/QQQ
+                  - text: 天天新高的蓝星贝塔，买了吗？这个地方你不需要出卖自己的灵魂，就能换取物质享受。
+                - generic [ref=e223]:
+                  - link " 转发" [ref=e224] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e225]: 
+                    - generic [ref=e226]: 转发
+                  - link " 10" [ref=e227] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e228]: 
+                    - generic [ref=e229]: "10"
+                  - link " 9" [ref=e230] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e231]: 
+                    - generic [ref=e232]: "9"
+                  - link " 收藏" [ref=e233] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e234]: 
+                    - generic [ref=e235]: 收藏
+            - article [ref=e236]:
+              - link [ref=e237] [cursor=pointer]:
+                - /url: /9083122550
+                - img [ref=e238]
+              - generic [ref=e239]:
+                - generic [ref=e241]:
+                  - link "舒九" [ref=e242] [cursor=pointer]:
+                    - /url: /9083122550
+                  - link "16分钟前· 来自雪球" [ref=e243] [cursor=pointer]:
+                    - /url: /9083122550/385316947
+                - generic [ref=e244]:
+                  - generic [ref=e246]:
+                    - generic [ref=e247]:
+                      - text: 这个开车感觉，这不就是看门狗吗？连很难操控的感觉也像。这个车真的太难开了兄弟，我在电脑上都觉得很难开，不知道手机上还能怎么开。
+                      - text: 然后就是太容易被通缉了，磕一下碰一下任务就中断了。本身车就很难开了，再磕磕碰碰就被通缉了，就没法做任务了。自由，又不是那么自由。
+                      - text: 另一个问题，...
+                    - link "展开" [ref=e248] [cursor=pointer]:
+                      - /url: ""
+                  - img [ref=e250]
+                - generic [ref=e251]:
+                  - link " 转发" [ref=e252] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e253]: 
+                    - generic [ref=e254]: 转发
+                  - link " 7" [ref=e255] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e256]: 
+                    - generic [ref=e257]: "7"
+                  - link " 19" [ref=e258] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e259]: 
+                    - generic [ref=e260]: "19"
+                  - link " 收藏" [ref=e261] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e262]: 
+                    - generic [ref=e263]: 收藏
+            - article [ref=e264]:
+              - link [ref=e265] [cursor=pointer]:
+                - /url: /mississippi
+                - img [ref=e266]
+              - generic [ref=e267]:
+                - generic [ref=e269]:
+                  - link "密西西笔盒" [ref=e270] [cursor=pointer]:
+                    - /url: /mississippi
+                  - img "达人认证" [ref=e271]
+                  - link "24分钟前· 来自雪球" [ref=e272] [cursor=pointer]:
+                    - /url: /3025639442/385313979
+                - generic [ref=e273]:
+                  - generic [ref=e275]:
+                    - generic [ref=e276]:
+                      - text: 回复
+                      - link "@清风扑面" [ref=e277] [cursor=pointer]:
+                        - /url: https://xueqiu.com/n/清风扑面
+                      - text: ": 对，这就是眼光和能力问题。地方债。。。那其实是使用效率最低的地方。只想着怎么改善自己的资产负债表，没想过企业怎么赚钱，这种思维方式当然有问题的。//"
+                      - link "@清风扑面" [ref=e278] [cursor=pointer]:
+                        - /url: https://xueqiu.com/n/清风扑面
+                      - text: :回复
+                      - link "@密西西笔盒" [ref=e279] [cursor=pointer]:
+                        - /url: https://xueqiu.com/n/密西西笔盒
+                      - text: :印钞的流向是更关键的问题。都流向地方债，那可真是深坑。
+                    - link "查看对话" [ref=e281] [cursor=pointer]:
+                      - /url: ""
+                  - blockquote [ref=e282] [cursor=pointer]:
+                    - link "@价值at风险 荣誉认证 ：" [ref=e284]:
+                      - /url: /Value_at_Risk
+                      - generic [ref=e285]: "@价值at风险"
+                      - img "荣誉认证" [ref=e286]
+                      - generic [ref=e287]: ：
+                    - generic [ref=e289]:
+                      - text: 这是常识，不过因为短期内只能看到债化了的好处，而影响要长期后才出现，所以大家感受不到这个“常识”。
+                      - link "展开" [ref=e290]:
+                        - /url: ""
+                    - img [ref=e292]
+                    - generic [ref=e293]:
+                      - text: 56分钟前 · 转发 5
+                      - link "· 讨论 68" [ref=e294]:
+                        - /url: /9769652619/385299020#comment
+                      - text: · 赞 46
+                - generic [ref=e295]:
+                  - link " 转发" [ref=e296] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e297]: 
+                    - generic [ref=e298]: 转发
+                  - link " 讨论" [ref=e299] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e300]: 
+                    - generic [ref=e301]: 讨论
+                  - link " 赞" [ref=e302] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e303]: 
+                    - generic [ref=e304]: 赞
+                  - link " 收藏" [ref=e305] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e306]: 
+                    - generic [ref=e307]: 收藏
+            - article [ref=e308]:
+              - link [ref=e309] [cursor=pointer]:
+                - /url: /mississippi
+                - img [ref=e310]
+              - generic [ref=e311]:
+                - generic [ref=e313]:
+                  - link "密西西笔盒" [ref=e314] [cursor=pointer]:
+                    - /url: /mississippi
+                  - img "达人认证" [ref=e315]
+                  - link "26分钟前· 来自雪球" [ref=e316] [cursor=pointer]:
+                    - /url: /3025639442/385313108
+                - generic [ref=e317]:
+                  - generic [ref=e319]:
+                    - generic [ref=e320]:
+                      - text: 回复
+                      - link "@bewar" [ref=e321] [cursor=pointer]:
+                        - /url: https://xueqiu.com/n/bewar
+                      - text: ": 纯个人历史经验总结。有些时候想抄某标的，以为腰斩安全了，哪里想到后面还能狂跌。一般市场情绪发酵，除以3是一个比较好的平衡位。"
+                      - text: 可以用这个来控制自己不乱抄底，同时也能很好的减少操作，避免犯错。
+                      - text: 1/3，如果真是好票的话，是很好的攻守位。
+                      - text: 当然，前提是好票。像融...
+                    - link "展开" [ref=e322] [cursor=pointer]:
+                      - /url: ""
+                  - blockquote [ref=e323] [cursor=pointer]:
+                    - link "@炼金女王 ：" [ref=e325]:
+                      - /url: /9206536540
+                      - generic [ref=e326]: "@炼金女王"
+                      - generic [ref=e327]: ：
+                    - generic [ref=e328]:
+                      - generic [ref=e329]:
+                        - generic [ref=e330]:
+                          - text: 宝子们，早上好！
+                          - text: 不到一年，我的办公桌上全是泡泡玛特，labubu，crybaby，molly，星星人，我就是那个在泡泡玛特20元时没买股票的呆子，但现在，我会买吗？答案是，不会！
+                          - text: 读过乐高史的书，真的没有那么容易，换过很多CEO，走过很多弯路，才有今天的乐高。迪士尼也诞生在特殊年代，都不是...
+                        - link "展开" [ref=e331]:
+                          - /url: ""
+                      - blockquote [ref=e332]:
+                        - list [ref=e334]:
+                          - listitem [ref=e335]:
+                            - link [ref=e336]:
+                              - /url: javascript:;
+                              - img [ref=e337]
+                          - listitem [ref=e338]:
+                            - link [ref=e339]:
+                              - /url: javascript:;
+                              - img [ref=e340]
+                    - generic [ref=e341]:
+                      - text: 35分钟前 · 转发 2
+                      - link "· 讨论 20" [ref=e342]:
+                        - /url: /9206536540/385307165#comment
+                      - text: · 赞 30
+                - generic [ref=e343]:
+                  - link " 转发" [ref=e344] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e345]: 
+                    - generic [ref=e346]: 转发
+                  - link " 讨论" [ref=e347] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e348]: 
+                    - generic [ref=e349]: 讨论
+                  - link " 3" [ref=e350] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e351]: 
+                    - generic [ref=e352]: "3"
+                  - link " 收藏" [ref=e353] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e354]: 
+                    - generic [ref=e355]: 收藏
+            - article [ref=e356]:
+              - link [ref=e357] [cursor=pointer]:
+                - /url: /2166236329
+                - img [ref=e358]
+              - generic [ref=e359]:
+                - generic [ref=e361]:
+                  - link "心定则神闲" [ref=e362] [cursor=pointer]:
+                    - /url: /2166236329
+                  - img "荣誉认证" [ref=e363]
+                  - link "26分钟前· 来自iPhone" [ref=e364] [cursor=pointer]:
+                    - /url: /2166236329/385312975
+                - generic [ref=e368]:
+                  - text: 霍尔木兹一直封下去，对除了得益于油价涨的几个股票利好之外，几乎所有的板块都是利空！不要以为是短期的阵痛，对很多公司业绩预期来说，可能会带来长远的影响！
+                  - img "[没眼看]" [ref=e369]
+                  - img "[吃瓜]" [ref=e370]
+                  - img "[狗头]" [ref=e371]
+                - generic [ref=e372]:
+                  - link " 转发" [ref=e373] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e374]: 
+                    - generic [ref=e375]: 转发
+                  - link " 6" [ref=e376] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e377]: 
+                    - generic [ref=e378]: "6"
+                  - link " 5" [ref=e379] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e380]: 
+                    - generic [ref=e381]: "5"
+                  - link " 收藏" [ref=e382] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e383]: 
+                    - generic [ref=e384]: 收藏
+            - article [ref=e385]:
+              - link [ref=e386] [cursor=pointer]:
+                - /url: /9083122550
+                - img [ref=e387]
+              - generic [ref=e388]:
+                - generic [ref=e390]:
+                  - link "舒九" [ref=e391] [cursor=pointer]:
+                    - /url: /9083122550
+                  - link "31分钟前· 来自雪球" [ref=e392] [cursor=pointer]:
+                    - /url: /9083122550/385310911
+                - generic [ref=e393]:
+                  - generic [ref=e395]:
+                    - text: 你们异环内测的人玩这个不觉得头晕的吗，镜头转的太快了。
+                    - link "展开" [ref=e396] [cursor=pointer]:
+                      - /url: ""
+                  - img [ref=e398]
+                - generic [ref=e399]:
+                  - link " 转发" [ref=e400] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e401]: 
+                    - generic [ref=e402]: 转发
+                  - link " 14" [ref=e403] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e404]: 
+                    - generic [ref=e405]: "14"
+                  - link " 27" [ref=e406] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e407]: 
+                    - generic [ref=e408]: "27"
+                  - link " 收藏" [ref=e409] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e410]: 
+                    - generic [ref=e411]: 收藏
+            - article [ref=e412]:
+              - link [ref=e413] [cursor=pointer]:
+                - /url: /mississippi
+                - img [ref=e414]
+              - generic [ref=e415]:
+                - generic [ref=e417]:
+                  - link "密西西笔盒" [ref=e418] [cursor=pointer]:
+                    - /url: /mississippi
+                  - img "达人认证" [ref=e419]
+                  - link "31分钟前· 来自雪球" [ref=e420] [cursor=pointer]:
+                    - /url: /3025639442/385310811
+                - generic [ref=e421]:
+                  - generic [ref=e423]:
+                    - generic [ref=e424]:
+                      - text: 回复
+                      - link "@炼金女王" [ref=e425] [cursor=pointer]:
+                        - /url: https://xueqiu.com/n/炼金女王
+                      - text: ": 我有一个非常简单的计算公式：最高价/3, 即339.8 / 3 = 113。当然，被段这么一搞，应该很难达到了。//"
+                      - link "@炼金女王" [ref=e426] [cursor=pointer]:
+                        - /url: https://xueqiu.com/n/炼金女王
+                      - text: :回复
+                      - link "@密西西笔盒" [ref=e427] [cursor=pointer]:
+                        - /url: https://xueqiu.com/n/密西西笔盒
+                      - text: ":"
+                      - link "@密西西笔盒" [ref=e428] [cursor=pointer]:
+                        - /url: https://xueqiu.com/n/密西西笔盒
+                      - text: 多少钱你愿意买
+                      - img "[斜眼]" [ref=e429]
+                    - link "查看对话" [ref=e431] [cursor=pointer]:
+                      - /url: ""
+                  - blockquote [ref=e432] [cursor=pointer]:
+                    - link "@炼金女王 ：" [ref=e434]:
+                      - /url: /9206536540
+                      - generic [ref=e435]: "@炼金女王"
+                      - generic [ref=e436]: ：
+                    - generic [ref=e437]:
+                      - generic [ref=e438]:
+                        - generic [ref=e439]:
+                          - text: 宝子们，早上好！
+                          - text: 不到一年，我的办公桌上全是泡泡玛特，labubu，crybaby，molly，星星人，我就是那个在泡泡玛特20元时没买股票的呆子，但现在，我会买吗？答案是，不会！
+                          - text: 读过乐高史的书，真的没有那么容易，换过很多CEO，走过很多弯路，才有今天的乐高。迪士尼也诞生在特殊年代，都不是...
+                        - link "展开" [ref=e440]:
+                          - /url: ""
+                      - blockquote [ref=e441]:
+                        - list [ref=e443]:
+                          - listitem [ref=e444]:
+                            - link [ref=e445]:
+                              - /url: javascript:;
+                              - img [ref=e446]
+                          - listitem [ref=e447]:
+                            - link [ref=e448]:
+                              - /url: javascript:;
+                              - img [ref=e449]
+                    - generic [ref=e450]:
+                      - text: 35分钟前 · 转发 2
+                      - link "· 讨论 20" [ref=e451]:
+                        - /url: /9206536540/385307165#comment
+                      - text: · 赞 30
+                - generic [ref=e452]:
+                  - link " 转发" [ref=e453] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e454]: 
+                    - generic [ref=e455]: 转发
+                  - link " 2" [ref=e456] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e457]: 
+                    - generic [ref=e458]: "2"
+                  - link " 2" [ref=e459] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e460]: 
+                    - generic [ref=e461]: "2"
+                  - link " 收藏" [ref=e462] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e463]: 
+                    - generic [ref=e464]: 收藏
+            - article [ref=e465]:
+              - link [ref=e466] [cursor=pointer]:
+                - /url: /mississippi
+                - img [ref=e467]
+              - generic [ref=e468]:
+                - generic [ref=e470]:
+                  - link "密西西笔盒" [ref=e471] [cursor=pointer]:
+                    - /url: /mississippi
+                  - img "达人认证" [ref=e472]
+                  - link "36分钟前· 来自雪球" [ref=e473] [cursor=pointer]:
+                    - /url: /3025639442/385308759
+                - generic [ref=e474]:
+                  - generic [ref=e476]: 现价太贵了，必须要等折扣！毕竟增长不易！
+                  - blockquote [ref=e477] [cursor=pointer]:
+                    - link "@炼金女王 ：" [ref=e479]:
+                      - /url: /9206536540
+                      - generic [ref=e480]: "@炼金女王"
+                      - generic [ref=e481]: ：
+                    - generic [ref=e482]:
+                      - generic [ref=e483]:
+                        - generic [ref=e484]:
+                          - text: 宝子们，早上好！
+                          - text: 不到一年，我的办公桌上全是泡泡玛特，labubu，crybaby，molly，星星人，我就是那个在泡泡玛特20元时没买股票的呆子，但现在，我会买吗？答案是，不会！
+                          - text: 读过乐高史的书，真的没有那么容易，换过很多CEO，走过很多弯路，才有今天的乐高。迪士尼也诞生在特殊年代，都不是...
+                        - link "展开" [ref=e485]:
+                          - /url: ""
+                      - blockquote [ref=e486]:
+                        - list [ref=e488]:
+                          - listitem [ref=e489]:
+                            - link [ref=e490]:
+                              - /url: javascript:;
+                              - img [ref=e491]
+                          - listitem [ref=e492]:
+                            - link [ref=e493]:
+                              - /url: javascript:;
+                              - img [ref=e494]
+                    - generic [ref=e495]:
+                      - text: 35分钟前 · 转发 2
+                      - link "· 讨论 20" [ref=e496]:
+                        - /url: /9206536540/385307165#comment
+                      - text: · 赞 30
+                - generic [ref=e497]:
+                  - link " 转发" [ref=e498] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e499]: 
+                    - generic [ref=e500]: 转发
+                  - link " 5" [ref=e501] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e502]: 
+                    - generic [ref=e503]: "5"
+                  - link " 1" [ref=e504] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e505]: 
+                    - generic [ref=e506]: "1"
+                  - link " 收藏" [ref=e507] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e508]: 
+                    - generic [ref=e509]: 收藏
+            - article [ref=e510]:
+              - link [ref=e511] [cursor=pointer]:
+                - /url: /chenda
+                - img [ref=e512]
+              - generic [ref=e513]:
+                - generic [ref=e515]:
+                  - link "陈达美股投资" [ref=e516] [cursor=pointer]:
+                    - /url: /chenda
+                  - img "荣誉认证" [ref=e517]
+                  - img "达人认证" [ref=e518]
+                  - link "40分钟前· 来自雪球" [ref=e519] [cursor=pointer]:
+                    - /url: /9598793634/385307164
+                - generic [ref=e520]:
+                  - generic [ref=e522]:
+                    - generic [ref=e523]:
+                      - text: 回复
+                      - link "@陈达美股投资" [ref=e524] [cursor=pointer]:
+                        - /url: https://xueqiu.com/n/陈达美股投资
+                      - text: ": 之前IGV猛跌的时候以 0.9的相关性跟了如影随形，而现在IGV猛涨，不跟了，跟跌不跟涨，西吧。//"
+                      - link "@陈达美股投资" [ref=e525] [cursor=pointer]:
+                        - /url: https://xueqiu.com/n/陈达美股投资
+                      - text: :回复
+                      - link "@我们做事就这样" [ref=e526] [cursor=pointer]:
+                        - /url: https://xueqiu.com/n/我们做事就这样
+                      - text: ":"
+                      - link "$恒生科技指数(HKHSTECH)$" [ref=e527] [cursor=pointer]:
+                        - /url: https://xueqiu.com/S/HKHSTECH
+                      - text: 这指数有毒，阿里、腾讯、百度，平台与软件其实还行，猛跌的都是造车的。这个指数，现在有点谁也不跟，非常特立独行。
+                    - link "查看对话" [ref=e529] [cursor=pointer]:
+                      - /url: ""
+                  - blockquote [ref=e530] [cursor=pointer]:
+                    - link "@我们做事就这样 ：" [ref=e532]:
+                      - /url: /3991114508
+                      - generic [ref=e533]: "@我们做事就这样"
+                      - generic [ref=e534]: ：
+                    - generic [ref=e537]:
+                      - link "$恒生科技指数(HKHSTECH)$" [ref=e538]:
+                        - /url: https://xueqiu.com/S/HKHSTECH
+                      - text: 自从离婚后，拿着恒科少了对不起家人的愧疚感，反而更从容了
+                      - img "[狗头]" [ref=e539]
+                    - generic [ref=e540]:
+                      - text: 47分钟前 · 转发 1
+                      - link "· 讨论 42" [ref=e541]:
+                        - /url: /3991114508/385303895#comment
+                      - text: · 赞 11
+                - generic [ref=e542]:
+                  - link " 转发" [ref=e543] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e544]: 
+                    - generic [ref=e545]: 转发
+                  - link " 6" [ref=e546] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e547]: 
+                    - generic [ref=e548]: "6"
+                  - link " 10" [ref=e549] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e550]: 
+                    - generic [ref=e551]: "10"
+                  - link " 收藏" [ref=e552] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e553]: 
+                    - generic [ref=e554]: 收藏
+            - article [ref=e555]:
+              - link [ref=e556] [cursor=pointer]:
+                - /url: /mississippi
+                - img [ref=e557]
+              - generic [ref=e558]:
+                - generic [ref=e560]:
+                  - link "密西西笔盒" [ref=e561] [cursor=pointer]:
+                    - /url: /mississippi
+                  - img "达人认证" [ref=e562]
+                  - link "40分钟前· 来自雪球" [ref=e563] [cursor=pointer]:
+                    - /url: /3025639442/385306988
+                - generic [ref=e564]:
+                  - generic [ref=e566]:
+                    - generic [ref=e567]:
+                      - text: 回复
+                      - link "@雪山" [ref=e568] [cursor=pointer]:
+                        - /url: https://xueqiu.com/n/雪山
+                      - text: ": 如果不是硬通货，正常别人只想要他的货，不会想要他的币。//"
+                      - link "@雪山" [ref=e569] [cursor=pointer]:
+                        - /url: https://xueqiu.com/n/雪山
+                      - text: :回复
+                      - link "@密西西笔盒" [ref=e570] [cursor=pointer]:
+                        - /url: https://xueqiu.com/n/密西西笔盒
+                      - text: :他可以印本币去换汇。但没人收他的本币。
+                    - link "查看对话" [ref=e572] [cursor=pointer]:
+                      - /url: ""
+                  - blockquote [ref=e573] [cursor=pointer]:
+                    - link "@价值at风险 荣誉认证 ：" [ref=e575]:
+                      - /url: /Value_at_Risk
+                      - generic [ref=e576]: "@价值at风险"
+                      - img "荣誉认证" [ref=e577]
+                      - generic [ref=e578]: ：
+                    - generic [ref=e580]:
+                      - text: 这是常识，不过因为短期内只能看到债化了的好处，而影响要长期后才出现，所以大家感受不到这个“常识”。
+                      - link "展开" [ref=e581]:
+                        - /url: ""
+                    - img [ref=e583]
+                    - generic [ref=e584]:
+                      - text: 56分钟前 · 转发 5
+                      - link "· 讨论 68" [ref=e585]:
+                        - /url: /9769652619/385299020#comment
+                      - text: · 赞 46
+                - generic [ref=e586]:
+                  - link " 转发" [ref=e587] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e588]: 
+                    - generic [ref=e589]: 转发
+                  - link " 1" [ref=e590] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e591]: 
+                    - generic [ref=e592]: "1"
+                  - link " 赞" [ref=e593] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e594]: 
+                    - generic [ref=e595]: 赞
+                  - link " 收藏" [ref=e596] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e597]: 
+                    - generic [ref=e598]: 收藏
+            - article [ref=e599]:
+              - link [ref=e600] [cursor=pointer]:
+                - /url: /mississippi
+                - img [ref=e601]
+              - generic [ref=e602]:
+                - generic [ref=e604]:
+                  - link "密西西笔盒" [ref=e605] [cursor=pointer]:
+                    - /url: /mississippi
+                  - img "达人认证" [ref=e606]
+                  - link "41分钟前· 来自雪球" [ref=e607] [cursor=pointer]:
+                    - /url: /3025639442/385306497
+                - generic [ref=e608]:
+                  - generic [ref=e610]:
+                    - generic [ref=e611]:
+                      - text: 回复
+                      - link "@密西西笔盒" [ref=e612] [cursor=pointer]:
+                        - /url: https://xueqiu.com/n/密西西笔盒
+                      - text: ": 当然，如果想借用外币的信用发行自己的主权货币，那也需要外币。就是把硬通货外币当做发行货币的黄金储备来使用。比如香港的货币，就是以美元为基础的，显然需要外币。"
+                      - text: 不过香港的美元是自己的国际收支盈余攒下的，是资产，才能用于发行货币。//
+                      - link "@密西西笔盒" [ref=e613] [cursor=pointer]:
+                        - /url: https://xueqiu.com/n/密西西笔盒
+                      - text: :回复
+                      - link "@雪山" [ref=e614] [cursor=pointer]:
+                        - /url: https://xueqiu.com/n/雪山
+                      - text: :肯定是...
+                    - link "展开" [ref=e615] [cursor=pointer]:
+                      - /url: ""
+                  - blockquote [ref=e616] [cursor=pointer]:
+                    - link "@价值at风险 荣誉认证 ：" [ref=e618]:
+                      - /url: /Value_at_Risk
+                      - generic [ref=e619]: "@价值at风险"
+                      - img "荣誉认证" [ref=e620]
+                      - generic [ref=e621]: ：
+                    - generic [ref=e623]:
+                      - text: 这是常识，不过因为短期内只能看到债化了的好处，而影响要长期后才出现，所以大家感受不到这个“常识”。
+                      - link "展开" [ref=e624]:
+                        - /url: ""
+                    - img [ref=e626]
+                    - generic [ref=e627]:
+                      - text: 56分钟前 · 转发 5
+                      - link "· 讨论 68" [ref=e628]:
+                        - /url: /9769652619/385299020#comment
+                      - text: · 赞 46
+                - generic [ref=e629]:
+                  - link " 转发" [ref=e630] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e631]: 
+                    - generic [ref=e632]: 转发
+                  - link " 讨论" [ref=e633] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e634]: 
+                    - generic [ref=e635]: 讨论
+                  - link " 2" [ref=e636] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e637]: 
+                    - generic [ref=e638]: "2"
+                  - link " 收藏" [ref=e639] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e640]: 
+                    - generic [ref=e641]: 收藏
+            - article [ref=e642]:
+              - link [ref=e643] [cursor=pointer]:
+                - /url: /chenda
+                - img [ref=e644]
+              - generic [ref=e645]:
+                - generic [ref=e647]:
+                  - link "陈达美股投资" [ref=e648] [cursor=pointer]:
+                    - /url: /chenda
+                  - img "荣誉认证" [ref=e649]
+                  - img "达人认证" [ref=e650]
+                  - link "修改于41分钟前· 来自雪球" [ref=e651] [cursor=pointer]:
+                    - /url: /9598793634/385306178
+                - generic [ref=e652]:
+                  - generic [ref=e655]:
+                    - link "$恒生科技指数(HKHSTECH)$" [ref=e656] [cursor=pointer]:
+                      - /url: https://xueqiu.com/S/HKHSTECH
+                    - text: 这指数有毒，阿里、腾讯、百度，平台与软件其实还行，猛跌的都是造车的。这个指数，现在有点谁也不跟，非常特立独行。
+                  - blockquote [ref=e657] [cursor=pointer]:
+                    - link "@我们做事就这样 ：" [ref=e659]:
+                      - /url: /3991114508
+                      - generic [ref=e660]: "@我们做事就这样"
+                      - generic [ref=e661]: ：
+                    - generic [ref=e664]:
+                      - link "$恒生科技指数(HKHSTECH)$" [ref=e665]:
+                        - /url: https://xueqiu.com/S/HKHSTECH
+                      - text: 自从离婚后，拿着恒科少了对不起家人的愧疚感，反而更从容了
+                      - img "[狗头]" [ref=e666]
+                    - generic [ref=e667]:
+                      - text: 47分钟前 · 转发 1
+                      - link "· 讨论 42" [ref=e668]:
+                        - /url: /3991114508/385303895#comment
+                      - text: · 赞 11
+                - generic [ref=e669]:
+                  - link " 1" [ref=e670] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e671]: 
+                    - generic [ref=e672]: "1"
+                  - link " 40" [ref=e673] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e674]: 
+                    - generic [ref=e675]: "40"
+                  - link " 32" [ref=e676] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e677]: 
+                    - generic [ref=e678]: "32"
+                  - link " 收藏" [ref=e679] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e680]: 
+                    - generic [ref=e681]: 收藏
+            - article [ref=e682]:
+              - link [ref=e683] [cursor=pointer]:
+                - /url: /mississippi
+                - img [ref=e684]
+              - generic [ref=e685]:
+                - generic [ref=e687]:
+                  - link "密西西笔盒" [ref=e688] [cursor=pointer]:
+                    - /url: /mississippi
+                  - img "达人认证" [ref=e689]
+                  - link "45分钟前· 来自雪球" [ref=e690] [cursor=pointer]:
+                    - /url: /3025639442/385304794
+                - generic [ref=e691]:
+                  - generic [ref=e693]:
+                    - generic [ref=e694]:
+                      - text: 回复
+                      - link "@雪山" [ref=e695] [cursor=pointer]:
+                        - /url: https://xueqiu.com/n/雪山
+                      - text: ": 肯定是国际收支不平衡了，需要外债, 正常的。//"
+                      - link "@雪山" [ref=e696] [cursor=pointer]:
+                        - /url: https://xueqiu.com/n/雪山
+                      - text: :回复
+                      - link "@管我财" [ref=e697] [cursor=pointer]:
+                        - /url: https://xueqiu.com/n/管我财
+                      - text: :如果有这样的好事，为什么还有人借外债？
+                    - link "查看对话" [ref=e699] [cursor=pointer]:
+                      - /url: ""
+                  - blockquote [ref=e700] [cursor=pointer]:
+                    - link "@价值at风险 荣誉认证 ：" [ref=e702]:
+                      - /url: /Value_at_Risk
+                      - generic [ref=e703]: "@价值at风险"
+                      - img "荣誉认证" [ref=e704]
+                      - generic [ref=e705]: ：
+                    - generic [ref=e707]:
+                      - text: 这是常识，不过因为短期内只能看到债化了的好处，而影响要长期后才出现，所以大家感受不到这个“常识”。
+                      - link "展开" [ref=e708]:
+                        - /url: ""
+                    - img [ref=e710]
+                    - generic [ref=e711]:
+                      - text: 56分钟前 · 转发 5
+                      - link "· 讨论 68" [ref=e712]:
+                        - /url: /9769652619/385299020#comment
+                      - text: · 赞 46
+                - generic [ref=e713]:
+                  - link " 转发" [ref=e714] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e715]: 
+                    - generic [ref=e716]: 转发
+                  - link " 4" [ref=e717] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e718]: 
+                    - generic [ref=e719]: "4"
+                  - link " 赞" [ref=e720] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e721]: 
+                    - generic [ref=e722]: 赞
+                  - link " 收藏" [ref=e723] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e724]: 
+                    - generic [ref=e725]: 收藏
+            - article [ref=e726]:
+              - link [ref=e727] [cursor=pointer]:
+                - /url: /mississippi
+                - img [ref=e728]
+              - generic [ref=e729]:
+                - generic [ref=e731]:
+                  - link "密西西笔盒" [ref=e732] [cursor=pointer]:
+                    - /url: /mississippi
+                  - img "达人认证" [ref=e733]
+                  - link "48分钟前· 来自雪球" [ref=e734] [cursor=pointer]:
+                    - /url: /3025639442/385303531
+                - generic [ref=e735]:
+                  - generic [ref=e737]: 本质都是印钞机，没听说过印钞机会违约，毕竟成本只是电费和纸张。 但是悲剧在于，印钞机如果主动找时机开动就好了。现在只是被动开动印钞机，就有点悲剧。开印钞机的时机，是门高深的学问。
+                  - blockquote [ref=e738] [cursor=pointer]:
+                    - link "@价值at风险 荣誉认证 ：" [ref=e740]:
+                      - /url: /Value_at_Risk
+                      - generic [ref=e741]: "@价值at风险"
+                      - img "荣誉认证" [ref=e742]
+                      - generic [ref=e743]: ：
+                    - generic [ref=e745]:
+                      - text: 这是常识，不过因为短期内只能看到债化了的好处，而影响要长期后才出现，所以大家感受不到这个“常识”。
+                      - link "展开" [ref=e746]:
+                        - /url: ""
+                    - img [ref=e748]
+                    - generic [ref=e749]:
+                      - text: 56分钟前 · 转发 5
+                      - link "· 讨论 68" [ref=e750]:
+                        - /url: /9769652619/385299020#comment
+                      - text: · 赞 46
+                - generic [ref=e751]:
+                  - link " 转发" [ref=e752] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e753]: 
+                    - generic [ref=e754]: 转发
+                  - link " 2" [ref=e755] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e756]: 
+                    - generic [ref=e757]: "2"
+                  - link " 4" [ref=e758] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e759]: 
+                    - generic [ref=e760]: "4"
+                  - link " 收藏" [ref=e761] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e762]: 
+                    - generic [ref=e763]: 收藏
+            - article [ref=e764]:
+              - link [ref=e765] [cursor=pointer]:
+                - /url: /Value_at_Risk
+                - img [ref=e766]
+              - generic [ref=e767]:
+                - generic [ref=e769]:
+                  - link "价值at风险" [ref=e770] [cursor=pointer]:
+                    - /url: /Value_at_Risk
+                  - img "荣誉认证" [ref=e771]
+                  - link "48分钟前· 来自雪球" [ref=e772] [cursor=pointer]:
+                    - /url: /9769652619/385303166
+                - generic [ref=e775]: 很久不算命了，感觉A股这波差不多了，特别是热门板块，情绪短期到极致了，该调整了，港股则更为提前一些。调整到哪里不好说，走着看吧。
+                - generic [ref=e776]:
+                  - link " 1" [ref=e777] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e778]: 
+                    - generic [ref=e779]: "1"
+                  - link " 28" [ref=e780] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e781]: 
+                    - generic [ref=e782]: "28"
+                  - link " 63" [ref=e783] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e784]: 
+                    - generic [ref=e785]: "63"
+                  - link " 收藏" [ref=e786] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e787]: 
+                    - generic [ref=e788]: 收藏
+            - article [ref=e789]:
+              - link [ref=e790] [cursor=pointer]:
+                - /url: /9650668145
+                - img [ref=e791]
+              - generic [ref=e792]:
+                - generic [ref=e794]:
+                  - link "管我财" [ref=e795] [cursor=pointer]:
+                    - /url: /9650668145
+                  - img "荣誉认证" [ref=e796]
+                  - img "达人认证" [ref=e797]
+                  - link "51分钟前· 来自iPhone" [ref=e798] [cursor=pointer]:
+                    - /url: /9650668145/385301977
+                - generic [ref=e799]:
+                  - generic [ref=e802]:
+                    - text: 任何國家的國債，只要是本幣內債，都不存在違約的風險。這也是常識
+                    - img "[笑哭]" [ref=e803]
+                    - img "[笑哭]" [ref=e804]
+                    - img "[笑哭]" [ref=e805]
+                  - blockquote [ref=e806] [cursor=pointer]:
+                    - link "@价值at风险 荣誉认证 ：" [ref=e808]:
+                      - /url: /Value_at_Risk
+                      - generic [ref=e809]: "@价值at风险"
+                      - img "荣誉认证" [ref=e810]
+                      - generic [ref=e811]: ：
+                    - generic [ref=e813]:
+                      - text: 这是常识，不过因为短期内只能看到债化了的好处，而影响要长期后才出现，所以大家感受不到这个“常识”。
+                      - link "展开" [ref=e814]:
+                        - /url: ""
+                    - img [ref=e816]
+                    - generic [ref=e817]:
+                      - text: 56分钟前 · 转发 5
+                      - link "· 讨论 68" [ref=e818]:
+                        - /url: /9769652619/385299020#comment
+                      - text: · 赞 46
+                - generic [ref=e819]:
+                  - link " 3" [ref=e820] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e821]: 
+                    - generic [ref=e822]: "3"
+                  - link " 55" [ref=e823] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e824]: 
+                    - generic [ref=e825]: "55"
+                  - link " 121" [ref=e826] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e827]: 
+                    - generic [ref=e828]: "121"
+                  - link " 收藏" [ref=e829] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e830]: 
+                    - generic [ref=e831]: 收藏
+      - generic [ref=e833]:
+        - generic [ref=e834]:
+          - heading "热门话题" [level=3] [ref=e835]
+          - table [ref=e837]:
+            - row "1 光纤概念大涨，杭电股份创新高" [ref=e838]:
+              - cell "1" [ref=e839]
+              - cell "光纤概念大涨，杭电股份创新高" [ref=e840]:
+                - link "光纤概念大涨，杭电股份创新高" [ref=e841] [cursor=pointer]:
+                  - /url: /k?q=%23%E5%85%89%E7%BA%A4%E6%A6%82%E5%BF%B5%E5%A4%A7%E6%B6%A8%EF%BC%8C%E6%9D%AD%E7%94%B5%E8%82%A1%E4%BB%BD%E5%88%9B%E6%96%B0%E9%AB%98%23
+            - row "2 DeepSeek首融估值破200亿，腾讯阿里竞投" [ref=e842]:
+              - cell "2" [ref=e843]
+              - cell "DeepSeek首融估值破200亿，腾讯阿里竞投" [ref=e844]:
+                - link "DeepSeek首融估值破200亿，腾讯阿里竞投" [ref=e845] [cursor=pointer]:
+                  - /url: /k?q=%23DeepSeek%E9%A6%96%E8%9E%8D%E4%BC%B0%E5%80%BC%E7%A0%B4200%E4%BA%BF%EF%BC%8C%E8%85%BE%E8%AE%AF%E9%98%BF%E9%87%8C%E7%AB%9E%E6%8A%95%23
+            - row "3 蓝色光标一季度业绩大增" [ref=e846]:
+              - cell "3" [ref=e847]
+              - cell "蓝色光标一季度业绩大增" [ref=e848]:
+                - link "蓝色光标一季度业绩大增" [ref=e849] [cursor=pointer]:
+                  - /url: /k?q=%23%E8%93%9D%E8%89%B2%E5%85%89%E6%A0%87%E4%B8%80%E5%AD%A3%E5%BA%A6%E4%B8%9A%E7%BB%A9%E5%A4%A7%E5%A2%9E%23
+            - row "4 创业板综指创历史新高" [ref=e850]:
+              - cell "4" [ref=e851]
+              - cell "创业板综指创历史新高" [ref=e852]:
+                - link "创业板综指创历史新高" [ref=e853] [cursor=pointer]:
+                  - /url: /k?q=%23%E5%88%9B%E4%B8%9A%E6%9D%BF%E7%BB%BC%E6%8C%87%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98%23
+            - row "5 A股持续反弹！沪指重回4100点" [ref=e854]:
+              - cell "5" [ref=e855]
+              - cell "A股持续反弹！沪指重回4100点" [ref=e856]:
+                - link "A股持续反弹！沪指重回4100点" [ref=e857] [cursor=pointer]:
+                  - /url: /k?q=%23A%E8%82%A1%E6%8C%81%E7%BB%AD%E5%8F%8D%E5%BC%B9%EF%BC%81%E6%B2%AA%E6%8C%87%E9%87%8D%E5%9B%9E4100%E7%82%B9%23
+            - row "6 CPO概念再走强，新易盛等多股创新高" [ref=e858]:
+              - cell "6" [ref=e859]
+              - cell "CPO概念再走强，新易盛等多股创新高" [ref=e860]:
+                - link "CPO概念再走强，新易盛等多股创新高" [ref=e861] [cursor=pointer]:
+                  - /url: /k?q=%23CPO%E6%A6%82%E5%BF%B5%E5%86%8D%E8%B5%B0%E5%BC%BA%EF%BC%8C%E6%96%B0%E6%98%93%E7%9B%9B%E7%AD%89%E5%A4%9A%E8%82%A1%E5%88%9B%E6%96%B0%E9%AB%98%23
+            - row "7 算力租赁板块拉升，协创数据股价刷新纪录" [ref=e862]:
+              - cell "7" [ref=e863]
+              - cell "算力租赁板块拉升，协创数据股价刷新纪录" [ref=e864]:
+                - link "算力租赁板块拉升，协创数据股价刷新纪录" [ref=e865] [cursor=pointer]:
+                  - /url: /k?q=%23%E7%AE%97%E5%8A%9B%E7%A7%9F%E8%B5%81%E6%9D%BF%E5%9D%97%E6%8B%89%E5%8D%87%EF%BC%8C%E5%8D%8F%E5%88%9B%E6%95%B0%E6%8D%AE%E8%82%A1%E4%BB%B7%E5%88%B7%E6%96%B0%E7%BA%AA%E5%BD%95%23
+            - row "8 碳化硅概念走强，天岳先进大涨" [ref=e866]:
+              - cell "8" [ref=e867]
+              - cell "碳化硅概念走强，天岳先进大涨" [ref=e868]:
+                - link "碳化硅概念走强，天岳先进大涨" [ref=e869] [cursor=pointer]:
+                  - /url: /k?q=%23%E7%A2%B3%E5%8C%96%E7%A1%85%E6%A6%82%E5%BF%B5%E8%B5%B0%E5%BC%BA%EF%BC%8C%E5%A4%A9%E5%B2%B3%E5%85%88%E8%BF%9B%E5%A4%A7%E6%B6%A8%23
+            - row "9 金属铟概念大涨，锌业股份涨停" [ref=e870]:
+              - cell "9" [ref=e871]
+              - cell "金属铟概念大涨，锌业股份涨停" [ref=e872]:
+                - link "金属铟概念大涨，锌业股份涨停" [ref=e873] [cursor=pointer]:
+                  - /url: /k?q=%23%E9%87%91%E5%B1%9E%E9%93%9F%E6%A6%82%E5%BF%B5%E5%A4%A7%E6%B6%A8%EF%BC%8C%E9%94%8C%E4%B8%9A%E8%82%A1%E4%BB%BD%E6%B6%A8%E5%81%9C%23
+            - row "10 猪肉概念活跃，天邦食品涨停" [ref=e874]:
+              - cell "10" [ref=e875]
+              - cell "猪肉概念活跃，天邦食品涨停" [ref=e876]:
+                - link "猪肉概念活跃，天邦食品涨停" [ref=e877] [cursor=pointer]:
+                  - /url: /k?q=%23%E7%8C%AA%E8%82%89%E6%A6%82%E5%BF%B5%E6%B4%BB%E8%B7%83%EF%BC%8C%E5%A4%A9%E9%82%A6%E9%A3%9F%E5%93%81%E6%B6%A8%E5%81%9C%23
+        - generic [ref=e878]:
+          - heading "热股榜 更多" [level=3] [ref=e879]:
+            - text: 热股榜
+            - link "更多" [ref=e880] [cursor=pointer]:
+              - /url: /hq#hot
+          - generic [ref=e881]:
+            - link "全球" [ref=e882] [cursor=pointer]:
+              - /url: ""
+            - link "沪深" [ref=e883] [cursor=pointer]:
+              - /url: ""
+            - link "港股" [ref=e884] [cursor=pointer]:
+              - /url: ""
+            - link "美股" [ref=e885] [cursor=pointer]:
+              - /url: ""
+          - generic [ref=e886]:
+            - link "1小时内最热" [ref=e887] [cursor=pointer]:
+              - /url: ""
+            - link "24小时内最热" [ref=e888] [cursor=pointer]:
+              - /url: ""
+          - generic [ref=e889]:
+            - generic [ref=e891]:
+              - generic [ref=e892]: "1"
+              - link "中际旭创" [ref=e894] [cursor=pointer]:
+                - /url: /S/SZ300308
+              - generic [ref=e895]: "-0.18%"
+            - generic [ref=e897]:
+              - generic [ref=e898]: "2"
+              - link "云南锗业" [ref=e900] [cursor=pointer]:
+                - /url: /S/SZ002428
+              - generic [ref=e901]: +0.80%
+            - generic [ref=e903]:
+              - generic [ref=e904]: "3"
+              - link "紫金矿业" [ref=e906] [cursor=pointer]:
+                - /url: /S/SH601899
+              - generic [ref=e907]: "-3.07%"
+            - generic [ref=e909]:
+              - generic [ref=e910]: "4"
+              - link "东山精密" [ref=e912] [cursor=pointer]:
+                - /url: /S/SZ002384
+              - generic [ref=e913]: +0.62%
+            - generic [ref=e915]:
+              - generic [ref=e916]: "5"
+              - link "英维克" [ref=e918] [cursor=pointer]:
+                - /url: /S/SZ002837
+              - generic [ref=e919]: "-3.91%"
+            - generic [ref=e921]:
+              - generic [ref=e922]: "6"
+              - link "山西汾酒" [ref=e924] [cursor=pointer]:
+                - /url: /S/SH600809
+              - generic [ref=e925]: +5.34%
+            - generic [ref=e927]:
+              - generic [ref=e928]: "7"
+              - link "永鼎股份" [ref=e930] [cursor=pointer]:
+                - /url: /S/SH600105
+              - generic [ref=e931]: +4.48%
+            - generic [ref=e933]:
+              - generic [ref=e934]: "8"
+              - link "腾讯控股" [ref=e936] [cursor=pointer]:
+                - /url: /S/00700
+              - generic [ref=e937]: "-1.51%"
+        - generic [ref=e938]:
+          - heading "涨跌幅榜 更多" [level=3] [ref=e939]:
+            - text: 涨跌幅榜
+            - link "更多" [ref=e940] [cursor=pointer]:
+              - /url: /hq#rank
+          - generic [ref=e941]:
+            - link "沪深" [ref=e942] [cursor=pointer]:
+              - /url: ""
+            - link "港股" [ref=e943] [cursor=pointer]:
+              - /url: ""
+            - link "美股" [ref=e944] [cursor=pointer]:
+              - /url: ""
+          - generic [ref=e945]:
+            - link "涨幅榜" [ref=e946] [cursor=pointer]:
+              - /url: ""
+            - link "跌幅榜" [ref=e947] [cursor=pointer]:
+              - /url: ""
+          - table [ref=e948]:
+            - row "1 移为通信 +20.03%" [ref=e949]:
+              - cell "1" [ref=e950]
+              - cell "移为通信" [ref=e951]:
+                - link "移为通信" [ref=e952] [cursor=pointer]:
+                  - /url: /S/SZ300590
+              - cell [ref=e953]
+              - cell "+20.03%" [ref=e954]
+            - row "2 怡达股份 +20.01%" [ref=e955]:
+              - cell "2" [ref=e956]
+              - cell "怡达股份" [ref=e957]:
+                - link "怡达股份" [ref=e958] [cursor=pointer]:
+                  - /url: /S/SZ300721
+              - cell [ref=e959]
+              - cell "+20.01%" [ref=e960]
+            - row "3 华绿生物 +20.00%" [ref=e961]:
+              - cell "3" [ref=e962]
+              - cell "华绿生物" [ref=e963]:
+                - link "华绿生物" [ref=e964] [cursor=pointer]:
+                  - /url: /S/SZ300970
+              - cell [ref=e965]
+              - cell "+20.00%" [ref=e966]
+            - row "4 安诺其 +19.97%" [ref=e967]:
+              - cell "4" [ref=e968]
+              - cell "安诺其" [ref=e969]:
+                - link "安诺其" [ref=e970] [cursor=pointer]:
+                  - /url: /S/SZ300067
+              - cell [ref=e971]
+              - cell "+19.97%" [ref=e972]
+            - row "5 旗天科技 +19.95%" [ref=e973]:
+              - cell "5" [ref=e974]
+              - cell "旗天科技" [ref=e975]:
+                - link "旗天科技" [ref=e976] [cursor=pointer]:
+                  - /url: /S/SZ300061
+              - cell [ref=e977]
+              - cell "+19.95%" [ref=e978]
+            - row "6 西部牧业 +15.89%" [ref=e979]:
+              - cell "6" [ref=e980]
+              - cell "西部牧业" [ref=e981]:
+                - link "西部牧业" [ref=e982] [cursor=pointer]:
+                  - /url: /S/SZ300106
+              - cell [ref=e983]
+              - cell "+15.89%" [ref=e984]
+            - row "7 铜牛信息 +13.01%" [ref=e985]:
+              - cell "7" [ref=e986]
+              - cell "铜牛信息" [ref=e987]:
+                - link "铜牛信息" [ref=e988] [cursor=pointer]:
+                  - /url: /S/SZ300895
+              - cell [ref=e989]
+              - cell "+13.01%" [ref=e990]
+            - row "8 美新科技 +12.55%" [ref=e991]:
+              - cell "8" [ref=e992]
+              - cell "美新科技" [ref=e993]:
+                - link "美新科技" [ref=e994] [cursor=pointer]:
+                  - /url: /S/SZ301588
+              - cell [ref=e995]
+              - cell "+12.55%" [ref=e996]
+            - row "9 贝达药业 +12.29%" [ref=e997]:
+              - cell "9" [ref=e998]
+              - cell "贝达药业" [ref=e999]:
+                - link "贝达药业" [ref=e1000] [cursor=pointer]:
+                  - /url: /S/SZ300558
+              - cell [ref=e1001]
+              - cell "+12.29%" [ref=e1002]
+            - row "10 佳华科技 +11.37%" [ref=e1003]:
+              - cell "10" [ref=e1004]
+              - cell "佳华科技" [ref=e1005]:
+                - link "佳华科技" [ref=e1006] [cursor=pointer]:
+                  - /url: /S/SH688051
+              - cell [ref=e1007]
+              - cell "+11.37%" [ref=e1008]
+        - generic [ref=e1009]:
+          - heading "热门基金" [level=3] [ref=e1010]
+          - table [ref=e1011]:
+            - row "1 国泰中证全指通信设备ETF联接基金C 年化(近5年) +32.44%" [ref=e1012]:
+              - cell "1" [ref=e1013]
+              - cell "国泰中证全指通信设备ETF联接基金C" [ref=e1014]:
+                - link "国泰中证全指通信设备ETF联接基金C" [ref=e1015] [cursor=pointer]:
+                  - /url: /S/F007818
+              - cell "年化(近5年)" [ref=e1016]
+              - cell "+32.44%" [ref=e1017]
+            - row "2 财通价值动量混合A 年化(近5年) +24.46%" [ref=e1018]:
+              - cell "2" [ref=e1019]
+              - cell "财通价值动量混合A" [ref=e1020]:
+                - link "财通价值动量混合A" [ref=e1021] [cursor=pointer]:
+                  - /url: /S/F720001
+              - cell "年化(近5年)" [ref=e1022]
+              - cell "+24.46%" [ref=e1023]
+            - row "3 华夏行业景气混合A 年化(近5年) +22.37%" [ref=e1024]:
+              - cell "3" [ref=e1025]
+              - cell "华夏行业景气混合A" [ref=e1026]:
+                - link "华夏行业景气混合A" [ref=e1027] [cursor=pointer]:
+                  - /url: /S/F003567
+              - cell "年化(近5年)" [ref=e1028]
+              - cell "+22.37%" [ref=e1029]
+            - row "4 财通新视野混合A 年化(近5年) +21.35%" [ref=e1030]:
+              - cell "4" [ref=e1031]
+              - cell "财通新视野混合A" [ref=e1032]:
+                - link "财通新视野混合A" [ref=e1033] [cursor=pointer]:
+                  - /url: /S/F005851
+              - cell "年化(近5年)" [ref=e1034]
+              - cell "+21.35%" [ref=e1035]
+            - row "5 万家品质生活混合 年化(近5年) +19.95%" [ref=e1036]:
+              - cell "5" [ref=e1037]
+              - cell "万家品质生活混合" [ref=e1038]:
+                - link "万家品质生活混合" [ref=e1039] [cursor=pointer]:
+                  - /url: /S/F519195
+              - cell "年化(近5年)" [ref=e1040]
+              - cell "+19.95%" [ref=e1041]
+            - row "6 中加转型动力混合A 年化(近5年) +19.47%" [ref=e1042]:
+              - cell "6" [ref=e1043]
+              - cell "中加转型动力混合A" [ref=e1044]:
+                - link "中加转型动力混合A" [ref=e1045] [cursor=pointer]:
+                  - /url: /S/F005775
+              - cell "年化(近5年)" [ref=e1046]
+              - cell "+19.47%" [ref=e1047]
+            - row "7 华宝资源优选 年化(近5年) +18.76%" [ref=e1048]:
+              - cell "7" [ref=e1049]
+              - cell "华宝资源优选" [ref=e1050]:
+                - link "华宝资源优选" [ref=e1051] [cursor=pointer]:
+                  - /url: /S/F240022
+              - cell "年化(近5年)" [ref=e1052]
+              - cell "+18.76%" [ref=e1053]
+            - row "8 易方达标普信息科技指数（QDII-LOF）A 年化(近5年) +18.20%" [ref=e1054]:
+              - cell "8" [ref=e1055]
+              - cell "易方达标普信息科技指数（QDII-LOF）A" [ref=e1056]:
+                - link "易方达标普信息科技指数（QDII-LOF）A" [ref=e1057] [cursor=pointer]:
+                  - /url: /S/F161128
+              - cell "年化(近5年)" [ref=e1058]
+              - cell "+18.20%" [ref=e1059]
+            - row "9 银华抗通胀主题(QDII-FOF-LOF)A 年化(近5年) +17.78%" [ref=e1060]:
+              - cell "9" [ref=e1061]
+              - cell "银华抗通胀主题(QDII-FOF-LOF)A" [ref=e1062]:
+                - link "银华抗通胀主题(QDII-FOF-LOF)A" [ref=e1063] [cursor=pointer]:
+                  - /url: /S/F161815
+              - cell "年化(近5年)" [ref=e1064]
+              - cell "+17.78%" [ref=e1065]
+            - row "10 华安标普全球石油指数 年化(近5年) +17.52%" [ref=e1066]:
+              - cell "10" [ref=e1067]
+              - cell "华安标普全球石油指数" [ref=e1068]:
+                - link "华安标普全球石油指数" [ref=e1069] [cursor=pointer]:
+                  - /url: /S/F160416
+              - cell "年化(近5年)" [ref=e1070]
+              - cell "+17.52%" [ref=e1071]
+  - contentinfo [ref=e1072]:
+    - generic [ref=e1073]:
+      - generic [ref=e1074]:
+        - link "微信" [ref=e1075] [cursor=pointer]:
+          - /url: javascript:;
+          - img "微信" [ref=e1076]
+        - link "微博" [ref=e1077] [cursor=pointer]:
+          - /url: https://weibo.com/xueqiucom
+          - img "微博" [ref=e1078]
+        - link "邮箱" [ref=e1079] [cursor=pointer]:
+          - /url: mailto:snowball@xueqiu.com
+          - img "邮箱" [ref=e1080]
+      - generic [ref=e1081]:
+        - link "A股开户｜" [ref=e1082] [cursor=pointer]:
+          - /url: https://broker.xueqiu.com/open/pingan
+        - link "雪球基金｜" [ref=e1083] [cursor=pointer]:
+          - /url: https://danjuanfunds.com/
+        - link "投资者教育｜" [ref=e1084] [cursor=pointer]:
+          - /url: https://xueqiu.com/edu/invest-edu
+        - link "风险提示" [ref=e1085] [cursor=pointer]:
+          - /url: https://xueqiu.com/about/faq#6_0
+      - generic [ref=e1086]: 风险提示：雪球里任何用户或者嘉宾的发言，都有其特定立场，投资决策需要建立在独立思考之上
+      - generic [ref=e1087]:
+        - generic [ref=e1088]:
+          - text: 其他建议反馈欢迎点击
+          - link "#我给雪球提建议#" [ref=e1090] [cursor=pointer]:
+            - /url: https://xueqiu.com/hashtag/I-aIkee7membqueQg-aPkOW7uuiuriM=
+          - text: 如受到欺诈信息骚扰请至
+          - link "#防诈骗举报专区#" [ref=e1092] [cursor=pointer]:
+            - /url: https://xueqiu.com/hashtag/I-mYsuiviOmql-S4vuaKpeS4k-WMuiM=
+        - generic [ref=e1093]:
+          - text: 互联网违法和不良信息投诉：01061840634 / tousu@xueqiu.com
+          - generic [ref=e1094]: 举报中心
+          - link "侵权投诉指引" [ref=e1095] [cursor=pointer]:
+            - /url: https://xueqiu.com/law/tortreport
+          - link "雪球服务协议" [ref=e1096] [cursor=pointer]:
+            - /url: https://xueqiu.com/about/terms
+          - link "雪球隐私政策" [ref=e1097] [cursor=pointer]:
+            - /url: https://xueqiu.com/law/privacy
+          - text: © 2026 XUEQIU.COM 北京雪球信息科技有限公司
+          - link "京公网安备 11010502040379号" [ref=e1098] [cursor=pointer]:
+            - /url: https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502040379
+          - link "京ICP证100666号" [ref=e1099] [cursor=pointer]:
+            - /url: https://xqdoc.imedao.com/198bc1b4fb41d6523feaace4.jpg
+          - link "京ICP备10040543" [ref=e1100] [cursor=pointer]:
+            - /url: https://beian.miit.gov.cn/
+          - link "京金信备〔2022〕3号" [ref=e1101] [cursor=pointer]:
+            - /url: https://fisbaobei.ifcert.cn/Home/homeIindex
+          - link "营业执照" [ref=e1102] [cursor=pointer]:
+            - /url: https://xqimg.imedao.com/1798dc30dead0453fd6075d8.png
+          - generic [ref=e1103]:
+            - link "证券业协会会员单位（代码817027）" [ref=e1104] [cursor=pointer]:
+              - /url: https://xqimg.imedao.com/14d52aefd15e8f3fc0ce1fbd.png
+            - 'link "广播电视节目制作经营许可证: (京)字第08638号" [ref=e1105] [cursor=pointer]':
+              - /url: https://xqdoc.imedao.com/198c1a776442061d3fe4efd5.pdf
+            - link "出版物经营许可证" [ref=e1106] [cursor=pointer]:
+              - /url: https://xqimg.imedao.com/181b337b7742caf83fee6640.png
+          - link "人工智能服务登记编号：Beijing-XueQiuHuiJian-2S0033" [ref=e1108]:
+            - /url: javascript:;
+      - generic [ref=e1109]:
+        - link "常见问题｜" [ref=e1110] [cursor=pointer]:
+          - /url: https://xueqiu.com/about/faq
+        - link "加入我们｜" [ref=e1111] [cursor=pointer]:
+          - /url: https://xueqiu.com/about/jobs
+        - link "关于雪球" [ref=e1112] [cursor=pointer]:
+          - /url: https://xueqiu.com/about/what-is-xueqiu
+  - text: "* * · * * *"
+  - generic [ref=e1114]:
+    - img "fold" [ref=e1115]
+    - generic [ref=e1116]: 问问投资的问题吧，帮你发现投资好机会

@@ -1,0 +1,61 @@
+{
+  "skill_name": "cu-xueqiu-monitor",
+  "evals": [
+    {
+      "id": 1,
+      "name": "触发：获取雪球组合列表",
+      "prompt": "帮我查一下雪球上的自选组合列表",
+      "expected_output": "通过 Win10 节点浏览器 navigate 到雪球首页，evaluate 提取组合名称和代码，返回 JSON 格式的组合列表",
+      "should_trigger": true
+    },
+    {
+      "id": 2,
+      "name": "触发：查看组合详情",
+      "prompt": "查看一下我的组合 ZH1038353 的最新仓位和调仓情况",
+      "expected_output": "通过 Win10 节点浏览器 navigate 到组合详情页，evaluate 提取净值、总收益、最新调仓、持仓明细，返回结构化数据",
+      "should_trigger": true
+    },
+    {
+      "id": 3,
+      "name": "触发：调仓历史查询",
+      "prompt": "我想看 ZH1038353 这个组合最近一个月的调仓历史",
+      "expected_output": "通过 Win10 节点浏览器 navigate 到组合详情页，点击调仓历史记录链接，批量展开并提取所有调仓记录",
+      "should_trigger": true
+    },
+    {
+      "id": 4,
+      "name": "误触发：普通股票查询",
+      "prompt": "查一下雪球上贵州茅台的股价",
+      "expected_output": "不触发本技能，因为用户查询的是单只股票而非组合监控",
+      "should_trigger": false
+    },
+    {
+      "id": 5,
+      "name": "误触发：非雪球平台",
+      "prompt": "帮我看一下同花顺上的自选股",
+      "expected_output": "不触发本技能，因为用户提到的是同花顺而非雪球",
+      "should_trigger": false
+    },
+    {
+      "id": 6,
+      "name": "误触发：模糊提及组合",
+      "prompt": "我看了一下这个投资组合，感觉还不错",
+      "expected_output": "不触发本技能，因为用户未明确要求从雪球获取数据",
+      "should_trigger": false
+    },
+    {
+      "id": 7,
+      "name": "触发：跨组合对比",
+      "prompt": "对比一下我的两个雪球组合的持仓差异",
+      "expected_output": "触发本技能，获取两个组合的持仓数据，生成跨组合对比报告（共同重仓、仓位差异等）",
+      "should_trigger": true
+    },
+    {
+      "id": 8,
+      "name": "触发：组合监控日报",
+      "prompt": "生成今天的雪球组合监控日报",
+      "expected_output": "触发本技能，执行完整的前置检查、数据采集、调仓比对、数据写入流程，生成结构化报告",
+      "should_trigger": true
+    }
+  ]
+}

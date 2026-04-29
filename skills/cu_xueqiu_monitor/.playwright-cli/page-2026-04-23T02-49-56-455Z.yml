@@ -1,0 +1,100 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - heading "雪球" [level=1] [ref=e5]:
+      - link "雪球" [ref=e6] [cursor=pointer]:
+        - /url: /
+        - img "雪球" [ref=e7]
+    - link "雪球 首页" [ref=e9] [cursor=pointer]:
+      - /url: /
+      - img "雪球" [ref=e10]
+      - generic [ref=e11]: 首页
+    - generic [ref=e12]:
+      - textbox "搜索" [ref=e15]
+      - list [ref=e18]:
+        - listitem [ref=e19]:
+          - link [ref=e20] [cursor=pointer]:
+            - /url: javascript:;
+            - img [ref=e21]
+        - listitem [ref=e22]:
+          - link "下载App" [ref=e23] [cursor=pointer]:
+            - /url: javascript:;
+        - listitem [ref=e24]:
+          - link "登录" [ref=e25] [cursor=pointer]:
+            - /url: javascript:;
+  - generic [ref=e29]:
+    - img [ref=e30]
+    - generic [ref=e31]:
+      - text: 抱歉！没有找到你想要的内容
+      - text: 现在回到 我的首页 ...... 2
+  - generic [ref=e33]:
+    - generic [ref=e34]:
+      - link "微信" [ref=e35] [cursor=pointer]:
+        - /url: javascript:;
+        - img "微信" [ref=e36]
+      - link "微博" [ref=e37] [cursor=pointer]:
+        - /url: https://weibo.com/xueqiucom
+        - img "微博" [ref=e38]
+      - link "邮箱" [ref=e39] [cursor=pointer]:
+        - /url: mailto:snowball@xueqiu.com
+        - img "邮箱" [ref=e40]
+    - generic [ref=e41]:
+      - link "A股开户" [ref=e42] [cursor=pointer]:
+        - /url: https://broker.xueqiu.com/open/pingan
+      - text: ｜
+      - link "雪球基金" [ref=e43] [cursor=pointer]:
+        - /url: https://danjuanfunds.com/
+      - text: ｜
+      - link "投资者教育" [ref=e44] [cursor=pointer]:
+        - /url: https://xueqiu.com/edu/invest-edu
+      - text: ｜
+      - link "风险提示" [ref=e45] [cursor=pointer]:
+        - /url: https://xueqiu.com/about/faq#6_0
+    - generic [ref=e46]: 风险提示：雪球里任何用户或者嘉宾的发言，都有其特定立场，投资决策需要建立在独立思考之上
+    - generic [ref=e47]:
+      - generic [ref=e48]:
+        - text: 其他建议反馈欢迎点击
+        - link "#我给雪球提建议#" [ref=e49] [cursor=pointer]:
+          - /url: https://xueqiu.com/hashtag/I-aIkee7membqueQg-aPkOW7uuiuriM=
+        - text: 如受到欺诈信息骚扰请至
+        - link "#防诈骗举报专区#" [ref=e50] [cursor=pointer]:
+          - /url: https://xueqiu.com/hashtag/I-mYsuiviOmql-S4vuaKpeS4k-WMuiM=
+      - generic [ref=e51]:
+        - text: 互联网违法和不良信息投诉：01061840634 / tousu@xueqiu.com
+        - generic [ref=e52]: 举报中心
+        - generic [ref=e53]:
+          - link "侵权投诉指引" [ref=e54] [cursor=pointer]:
+            - /url: https://xueqiu.com/law/tortreport
+          - link "雪球服务协议" [ref=e55] [cursor=pointer]:
+            - /url: https://xueqiu.com/about/terms
+          - link "雪球隐私政策" [ref=e56] [cursor=pointer]:
+            - /url: https://xueqiu.com/law/privacy
+        - generic [ref=e57]:
+          - text: © 2023 XUEQIU.COM 北京雪球信息科技有限公司
+          - link "京公网安备 11010502040379号" [ref=e58] [cursor=pointer]:
+            - /url: https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502040379
+          - link "京ICP证100666号" [ref=e59] [cursor=pointer]:
+            - /url: https://xqdoc.imedao.com/198bc1b4fb41d6523feaace4.jpg
+          - link "京ICP备10040543" [ref=e60] [cursor=pointer]:
+            - /url: https://beian.miit.gov.cn/
+          - link "京金信备〔2022〕3号" [ref=e61] [cursor=pointer]:
+            - /url: https://fisbaobei.ifcert.cn/Home/homeIindex
+          - link "营业执照" [ref=e62] [cursor=pointer]:
+            - /url: https://xqimg.imedao.com/1798dc30dead0453fd6075d8.png
+          - link "证券业协会会员单位（代码817027）" [ref=e63] [cursor=pointer]:
+            - /url: https://xqimg.imedao.com/14d52aefd15e8f3fc0ce1fbd.png
+          - 'link "广播电视节目制作经营许可证: (京)字第08638号" [ref=e64] [cursor=pointer]':
+            - /url: https://xqdoc.imedao.com/198c1a776442061d3fe4efd5.pdf
+          - link "出版物经营许可证" [ref=e65] [cursor=pointer]:
+            - /url: https://xqimg.imedao.com/181b337b7742caf83fee6640.png
+          - link "人工智能服务登记编号：Beijing-XueQiuHuiJian-2S0033" [ref=e66]:
+            - /url: javascript:;
+    - generic [ref=e67]:
+      - link "常见问题" [ref=e68] [cursor=pointer]:
+        - /url: https://xueqiu.com/about/faq
+      - text: ｜
+      - link "加入我们" [ref=e69] [cursor=pointer]:
+        - /url: https://xueqiu.com/about/jobs
+      - text: ｜
+      - link "关于雪球" [ref=e70] [cursor=pointer]:
+        - /url: https://xueqiu.com/about/what-is-xueqiu
+  - generic: 
