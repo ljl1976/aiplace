@@ -1,7 +1,7 @@
 # AI工作空间 - aiplace
 
-**目录**: `/root/.openclaw/workspace/aiplace`  
-**用途**: Claude AI 助手的默认工作空间  
+**目录**: `/root/.openclaw/workspace/aiplace`
+**用途**: Claude AI 助手的默认工作空间
 **创建时间**: 2026-04-09
 
 ---
@@ -13,20 +13,6 @@
 - 📝 编写和管理代码
 - 🧪 测试和验证功能
 - 📚 存储工作文档
-
----
-
-## 🚀 快速开始
-
-```bash
-# 进入工作空间
-cd /root/.openclaw/workspace/aiplace
-
-# 查看当前项目
-ls -la
-
-# 开始工作...
-```
 
 ---
 
@@ -59,14 +45,30 @@ aiplace/
 
 ## 🎯 当前项目
 
-### 🚀 **Admin Dashboard** (活跃)
+### 🚀 **智能投资管理平台** (活跃)
+
+基于 **Next.js 16** 构建的智能投资管理平台。通过雪球组合监控技能自动抓取实时持仓数据和调仓历史，利用 CDP 直连浏览器绕过反爬限制，实现增量更新和智能告警。
+
+**核心特性**:
+- 🔄 自动抓取实时持仓数据和调仓历史
+- 🌐 CDP 直连浏览器绕过反爬限制
+- 📊 增量更新和智能告警
+- 📈 多维度数据可视化（持仓分布、收益率趋势、调仓分析）
+- 🔍 支持多组合对比和观察要点自动生成
+
+**数据统计**:
+- 已接入 2 个雪球组合
+- 累计抓取 350+ 条持仓记录
+- 累计抓取 99+ 条调仓历史
+- 投资组合监控效率提升 90%
+
+---
+
+### 🎨 **Admin Dashboard**
 - **技术栈**: Next.js 16 + TypeScript + Tailwind CSS v4 + Shadcn UI
 - **状态**: ✅ 开发环境配置完成
 - **路径**: `projects/admin-dashboard/`
 - **启动**: `cd projects/admin-dashboard && pnpm run dev`
-- **文档**:
-  - [项目信息](./projects/admin-dashboard/PROJECT_INFO.md)
-  - [结构详解](./projects/admin-dashboard/PROJECT_STRUCTURE.md)
 
 **核心特性**:
 - 🎨 极简现代设计风格
@@ -80,6 +82,7 @@ aiplace/
 
 ## 🎯 当前任务
 
+- [x] 完成智能投资管理平台核心功能
 - [x] 完成 Admin Dashboard 项目集成
 - [ ] 后端API集成规划
 - [ ] 业务功能定制开发
@@ -87,5 +90,5 @@ aiplace/
 
 ---
 
-**aiplace - AI工作空间**  
-*默认工作目录 - 2026-04-09*
+**aiplace - AI工作空间**
+*智能投资管理平台 - 2026-04-29*
