@@ -1,0 +1,46 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Build outputs
+.next/
+out/
+dist/
+build/
+
+# Cache and temp directories
+*.log
+*.temp
+temp/
+*.tmp
+
+# Testing
+test-results/
+playwright-report/
+coverage/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Backups (keep structure but exclude content if needed)
+backups/*.tar.gz
+backups/*.zip
+backups/*.backup
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+projects/admin-dashboard/
