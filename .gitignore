@@ -43,3 +43,6 @@ backups/*.backup
 *.db
 *.sqlite
 *.sqlite3
+
+# Security: Exclude auth files with sensitive credential references
+projects/admin-dashboard/src/lib/auth.ts
